@@ -1,6 +1,21 @@
-测评
-使用Jupyter Notebook进行分析
+测评:
+
+Part 1 下载A股所有股票历史数据
+
+使用Jupyter Notebook, 从Yahoo Finance上，按照股票代码下载了所有A股股票的全部历史数据。处于加速下载速度的考虑，分为了深证和上证两个部分进行下载。
+
+Part 2 全盘部署定时下载每日最新数据
+
+1. 在文本框中输入希望更新的数据的日期
+![image](https://user-images.githubusercontent.com/74880402/139532843-725aec2a-fbce-470f-a6b5-fe23f0c664de.png)
+
+2. 在文本框中输入希望开始更新数据的具体时间
+![image](https://user-images.githubusercontent.com/74880402/139533024-2a12bbb6-6980-4007-b4f1-070e7d4d1533.png)
+
+Part 3 使用Jupyter Notebook进行分析
+
 1. 针对所有A股进行分析
+
    对所有深证上证股票进行了简单的聚合分析，分别对Open, Close, High, Low, Volume进行了简单的聚合运算，
    
    结果如下
