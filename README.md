@@ -9,7 +9,7 @@ Part 2 全盘部署定时下载每日最新数据
 1. 在文本框中输入希望更新的数据的日期
 ![image](https://user-images.githubusercontent.com/74880402/139532843-725aec2a-fbce-470f-a6b5-fe23f0c664de.png)
 
-2. 在文本框中输入希望开始更新数据的具体时间
+2. 在文本框中输入希望开始更新数据的具体时间（具体时间及频率可在文件中进一步修改）
 ![image](https://user-images.githubusercontent.com/74880402/139533024-2a12bbb6-6980-4007-b4f1-070e7d4d1533.png)
 
 3. 输入后运行即可全部更新
