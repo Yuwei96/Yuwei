@@ -18,18 +18,19 @@ Part 3 使用Jupyter Notebook进行分析
 
 1. 针对所有A股进行分析
 
-   对所有深证上证股票进行了简单的聚合分析，分别对Open, Close, High, Low, Volume进行了简单的聚合运算，
+
+   对所有深证上证股票进行了简单的聚合分析，分别对高开低收价格以及成交量进行了简单的聚合运算， 
    
    结果如下
 	 
 	 1.上证：
 	 
-	 ![image](https://user-images.githubusercontent.com/74880402/139531970-5e277759-1ee0-43b7-abc8-20b397bc9996.png)
-
+ 	 ![image](https://user-images.githubusercontent.com/74880402/139535822-4a9cfec3-cbbe-4e68-a937-6168f65b8773.png)
 	 
 	 2.深证：
 	 
-	 ![image](https://user-images.githubusercontent.com/74880402/139531997-5d8b7cdc-f5a1-494d-9ca4-8c43cd956f62.png) 
+	 ![image](https://user-images.githubusercontent.com/74880402/139535596-f6873919-d46d-4561-9ebf-f7e69af5d8e9.png)
+	 
 	 
 2. 针对个股进行分析（紫金矿业 2020/10 – 2021/10）
 
