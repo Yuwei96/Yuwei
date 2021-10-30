@@ -23,6 +23,7 @@ Part 3 使用Jupyter Notebook进行分析
 	 1.上证：
 	 
 	 ![image](https://user-images.githubusercontent.com/74880402/139531970-5e277759-1ee0-43b7-abc8-20b397bc9996.png)
+
 	 
 	 2.深证：
 	 
@@ -30,7 +31,7 @@ Part 3 使用Jupyter Notebook进行分析
 	 
 2. 针对个股进行分析（紫金矿业 2020/10 – 2021/10）
 
-	![image](https://user-images.githubusercontent.com/74880402/139533957-41c9fd3f-07a1-4ca7-a37c-213daf2293fe.png）
+	![image](https://user-images.githubusercontent.com/74880402/139534242-3b414280-0eaa-4af5-816c-08b5390b3652.png)
 
 	
 	1. 紫金矿业开盘价与收盘价走势
