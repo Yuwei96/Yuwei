@@ -75,7 +75,7 @@ Part 3 使用Jupyter Notebook进行分析
 
 	1. 随机挑选六只股票：西部矿业，紫金矿业，招商银行，交通银行，复星医药，三元股份。
 	
-	2. 使用Ski-learn对六只股票聚类分析。
+	2. 使用scikit-learn对六只股票聚类分析。
 	
 	![image](https://user-images.githubusercontent.com/74880402/139532275-07cbd67d-c50b-438a-ba08-c91c0c90dc3f.png)
 	
